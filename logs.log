@@ -1,0 +1,413 @@
+2025-08-07 10:22:24,570:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-08-07 10:22:24,570:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-08-07 10:22:24,570:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-08-07 10:22:24,578:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-08-07 10:22:26,239:INFO:Initializing load_model()
+2025-08-07 10:22:26,239:INFO:load_model(model_name=models/hts_special_rate_model, platform=None, authentication=None, verbose=True)
+2025-08-07 10:22:26,610:WARNING:C:\Users\karth\anaconda3\envs\newpycaret\Lib\site-packages\dask\dataframe\utils.py:367: FutureWarning: pandas.Int64Index is deprecated and will be removed from pandas in a future version. Use pandas.Index with the appropriate dtype instead.
+  _numeric_index_types = (pd.Int64Index, pd.Float64Index, pd.UInt64Index)
+
+2025-08-07 10:22:26,610:WARNING:C:\Users\karth\anaconda3\envs\newpycaret\Lib\site-packages\dask\dataframe\utils.py:367: FutureWarning: pandas.Float64Index is deprecated and will be removed from pandas in a future version. Use pandas.Index with the appropriate dtype instead.
+  _numeric_index_types = (pd.Int64Index, pd.Float64Index, pd.UInt64Index)
+
+2025-08-07 10:22:26,610:WARNING:C:\Users\karth\anaconda3\envs\newpycaret\Lib\site-packages\dask\dataframe\utils.py:367: FutureWarning: pandas.UInt64Index is deprecated and will be removed from pandas in a future version. Use pandas.Index with the appropriate dtype instead.
+  _numeric_index_types = (pd.Int64Index, pd.Float64Index, pd.UInt64Index)
+
+2025-08-07 10:30:16,222:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-08-07 10:30:16,222:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-08-07 10:30:16,222:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-08-07 10:30:16,222:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-08-07 10:30:17,067:INFO:Initializing load_model()
+2025-08-07 10:30:17,067:INFO:load_model(model_name=models/hts_special_rate_model, platform=None, authentication=None, verbose=True)
+2025-08-07 10:30:17,341:WARNING:C:\Users\karth\anaconda3\envs\newpycaret\Lib\site-packages\dask\dataframe\utils.py:367: FutureWarning: pandas.Int64Index is deprecated and will be removed from pandas in a future version. Use pandas.Index with the appropriate dtype instead.
+  _numeric_index_types = (pd.Int64Index, pd.Float64Index, pd.UInt64Index)
+
+2025-08-07 10:30:17,341:WARNING:C:\Users\karth\anaconda3\envs\newpycaret\Lib\site-packages\dask\dataframe\utils.py:367: FutureWarning: pandas.Float64Index is deprecated and will be removed from pandas in a future version. Use pandas.Index with the appropriate dtype instead.
+  _numeric_index_types = (pd.Int64Index, pd.Float64Index, pd.UInt64Index)
+
+2025-08-07 10:30:17,341:WARNING:C:\Users\karth\anaconda3\envs\newpycaret\Lib\site-packages\dask\dataframe\utils.py:367: FutureWarning: pandas.UInt64Index is deprecated and will be removed from pandas in a future version. Use pandas.Index with the appropriate dtype instead.
+  _numeric_index_types = (pd.Int64Index, pd.Float64Index, pd.UInt64Index)
+
+2025-08-07 10:32:08,190:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-08-07 10:32:08,190:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-08-07 10:32:08,190:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-08-07 10:32:08,190:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-08-07 10:32:09,033:INFO:Initializing load_model()
+2025-08-07 10:32:09,033:INFO:load_model(model_name=models/hts_special_rate_model, platform=None, authentication=None, verbose=True)
+2025-08-07 10:32:09,283:WARNING:C:\Users\karth\anaconda3\envs\newpycaret\Lib\site-packages\dask\dataframe\utils.py:367: FutureWarning: pandas.Int64Index is deprecated and will be removed from pandas in a future version. Use pandas.Index with the appropriate dtype instead.
+  _numeric_index_types = (pd.Int64Index, pd.Float64Index, pd.UInt64Index)
+
+2025-08-07 10:32:09,283:WARNING:C:\Users\karth\anaconda3\envs\newpycaret\Lib\site-packages\dask\dataframe\utils.py:367: FutureWarning: pandas.Float64Index is deprecated and will be removed from pandas in a future version. Use pandas.Index with the appropriate dtype instead.
+  _numeric_index_types = (pd.Int64Index, pd.Float64Index, pd.UInt64Index)
+
+2025-08-07 10:32:09,283:WARNING:C:\Users\karth\anaconda3\envs\newpycaret\Lib\site-packages\dask\dataframe\utils.py:367: FutureWarning: pandas.UInt64Index is deprecated and will be removed from pandas in a future version. Use pandas.Index with the appropriate dtype instead.
+  _numeric_index_types = (pd.Int64Index, pd.Float64Index, pd.UInt64Index)
+
+2025-08-07 10:53:11,763:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-08-07 10:53:11,763:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-08-07 10:53:11,763:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-08-07 10:53:11,763:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-08-07 10:53:13,032:INFO:Initializing load_model()
+2025-08-07 10:53:13,032:INFO:load_model(model_name=models/hts_special_rate_model, platform=None, authentication=None, verbose=True)
+2025-08-07 10:53:13,354:WARNING:C:\Users\karth\anaconda3\envs\newpycaret\Lib\site-packages\dask\dataframe\utils.py:367: FutureWarning: pandas.Int64Index is deprecated and will be removed from pandas in a future version. Use pandas.Index with the appropriate dtype instead.
+  _numeric_index_types = (pd.Int64Index, pd.Float64Index, pd.UInt64Index)
+
+2025-08-07 10:53:13,354:WARNING:C:\Users\karth\anaconda3\envs\newpycaret\Lib\site-packages\dask\dataframe\utils.py:367: FutureWarning: pandas.Float64Index is deprecated and will be removed from pandas in a future version. Use pandas.Index with the appropriate dtype instead.
+  _numeric_index_types = (pd.Int64Index, pd.Float64Index, pd.UInt64Index)
+
+2025-08-07 10:53:13,354:WARNING:C:\Users\karth\anaconda3\envs\newpycaret\Lib\site-packages\dask\dataframe\utils.py:367: FutureWarning: pandas.UInt64Index is deprecated and will be removed from pandas in a future version. Use pandas.Index with the appropriate dtype instead.
+  _numeric_index_types = (pd.Int64Index, pd.Float64Index, pd.UInt64Index)
+
+2025-08-07 10:58:50,251:INFO:Initializing predict_model()
+2025-08-07 10:58:50,251:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x000001EDEFA38C10>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['Indent', 'hts_length'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=['Description', 'Unit of Quantity',
+                                             'Chapter', 'Country of Origin',
+                                             'heading_code',
+                                             'subheading_code'],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('one...
+                                                              use_cat_names=True))),
+                ('rest_encoding',
+                 TransformerWrapper(include=['Description', 'heading_code',
+                                             'subheading_code'],
+                                    transformer=TargetEncoder(cols=['Description',
+                                                                    'heading_code',
+                                                                    'subheading_code'],
+                                                              handle_missing='return_nan'))),
+                ('clean_column_names',
+                 TransformerWrapper(transformer=CleanColumnNames())),
+                ('trained_model',
+                 RandomForestClassifier(n_jobs=-1, random_state=123))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000001EDB843D800>)
+2025-08-07 10:58:50,251:INFO:Checking exceptions
+2025-08-07 10:58:50,251:INFO:Preloading libraries
+2025-08-07 10:58:50,251:INFO:Set up data.
+2025-08-07 10:58:50,251:INFO:Set up index.
+2025-08-07 10:59:26,351:INFO:Initializing predict_model()
+2025-08-07 10:59:26,351:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x000001EDEF90CB50>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['Indent', 'hts_length'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=['Description', 'Unit of Quantity',
+                                             'Chapter', 'Country of Origin',
+                                             'heading_code',
+                                             'subheading_code'],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('one...
+                                                              use_cat_names=True))),
+                ('rest_encoding',
+                 TransformerWrapper(include=['Description', 'heading_code',
+                                             'subheading_code'],
+                                    transformer=TargetEncoder(cols=['Description',
+                                                                    'heading_code',
+                                                                    'subheading_code'],
+                                                              handle_missing='return_nan'))),
+                ('clean_column_names',
+                 TransformerWrapper(transformer=CleanColumnNames())),
+                ('trained_model',
+                 RandomForestClassifier(n_jobs=-1, random_state=123))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000001EDF0FB6480>)
+2025-08-07 10:59:26,351:INFO:Checking exceptions
+2025-08-07 10:59:26,351:INFO:Preloading libraries
+2025-08-07 10:59:26,351:INFO:Set up data.
+2025-08-07 10:59:26,351:INFO:Set up index.
+2025-08-07 11:06:04,904:INFO:Initializing predict_model()
+2025-08-07 11:06:04,904:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x000001EDF1347150>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['Indent', 'hts_length'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=['Description', 'Unit of Quantity',
+                                             'Chapter', 'Country of Origin',
+                                             'heading_code',
+                                             'subheading_code'],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('one...
+                                                              use_cat_names=True))),
+                ('rest_encoding',
+                 TransformerWrapper(include=['Description', 'heading_code',
+                                             'subheading_code'],
+                                    transformer=TargetEncoder(cols=['Description',
+                                                                    'heading_code',
+                                                                    'subheading_code'],
+                                                              handle_missing='return_nan'))),
+                ('clean_column_names',
+                 TransformerWrapper(transformer=CleanColumnNames())),
+                ('trained_model',
+                 RandomForestClassifier(n_jobs=-1, random_state=123))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000001EDF0FC7740>)
+2025-08-07 11:06:04,907:INFO:Checking exceptions
+2025-08-07 11:06:04,907:INFO:Preloading libraries
+2025-08-07 11:06:04,908:INFO:Set up data.
+2025-08-07 11:06:04,912:INFO:Set up index.
+2025-08-07 11:07:08,917:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-08-07 11:07:08,917:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-08-07 11:07:08,917:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-08-07 11:07:08,917:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-08-07 11:07:09,721:INFO:Initializing load_model()
+2025-08-07 11:07:09,721:INFO:load_model(model_name=models/hts_special_rate_model, platform=None, authentication=None, verbose=True)
+2025-08-07 11:07:09,973:WARNING:C:\Users\karth\anaconda3\envs\newpycaret\Lib\site-packages\dask\dataframe\utils.py:367: FutureWarning: pandas.Int64Index is deprecated and will be removed from pandas in a future version. Use pandas.Index with the appropriate dtype instead.
+  _numeric_index_types = (pd.Int64Index, pd.Float64Index, pd.UInt64Index)
+
+2025-08-07 11:07:09,973:WARNING:C:\Users\karth\anaconda3\envs\newpycaret\Lib\site-packages\dask\dataframe\utils.py:367: FutureWarning: pandas.Float64Index is deprecated and will be removed from pandas in a future version. Use pandas.Index with the appropriate dtype instead.
+  _numeric_index_types = (pd.Int64Index, pd.Float64Index, pd.UInt64Index)
+
+2025-08-07 11:07:09,973:WARNING:C:\Users\karth\anaconda3\envs\newpycaret\Lib\site-packages\dask\dataframe\utils.py:367: FutureWarning: pandas.UInt64Index is deprecated and will be removed from pandas in a future version. Use pandas.Index with the appropriate dtype instead.
+  _numeric_index_types = (pd.Int64Index, pd.Float64Index, pd.UInt64Index)
+
+2025-08-07 11:07:55,434:INFO:Initializing predict_model()
+2025-08-07 11:07:55,434:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x000001EE2CF6F750>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['Indent', 'hts_length'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=['Description', 'Unit of Quantity',
+                                             'Chapter', 'Country of Origin',
+                                             'heading_code',
+                                             'subheading_code'],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('one...
+                                                              use_cat_names=True))),
+                ('rest_encoding',
+                 TransformerWrapper(include=['Description', 'heading_code',
+                                             'subheading_code'],
+                                    transformer=TargetEncoder(cols=['Description',
+                                                                    'heading_code',
+                                                                    'subheading_code'],
+                                                              handle_missing='return_nan'))),
+                ('clean_column_names',
+                 TransformerWrapper(transformer=CleanColumnNames())),
+                ('trained_model',
+                 RandomForestClassifier(n_jobs=-1, random_state=123))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000001EE759FD800>)
+2025-08-07 11:07:55,434:INFO:Checking exceptions
+2025-08-07 11:07:55,434:INFO:Preloading libraries
+2025-08-07 11:07:55,434:INFO:Set up data.
+2025-08-07 11:07:55,434:INFO:Set up index.
+2025-08-07 14:12:18,236:INFO:Initializing predict_model()
+2025-08-07 14:12:18,250:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x000001EE2CF6F5D0>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['Indent', 'hts_length'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=['Description', 'Unit of Quantity',
+                                             'Chapter', 'Country of Origin',
+                                             'heading_code',
+                                             'subheading_code'],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('one...
+                                                              use_cat_names=True))),
+                ('rest_encoding',
+                 TransformerWrapper(include=['Description', 'heading_code',
+                                             'subheading_code'],
+                                    transformer=TargetEncoder(cols=['Description',
+                                                                    'heading_code',
+                                                                    'subheading_code'],
+                                                              handle_missing='return_nan'))),
+                ('clean_column_names',
+                 TransformerWrapper(transformer=CleanColumnNames())),
+                ('trained_model',
+                 RandomForestClassifier(n_jobs=-1, random_state=123))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000001EE2CE87B00>)
+2025-08-07 14:12:18,250:INFO:Checking exceptions
+2025-08-07 14:12:18,250:INFO:Preloading libraries
+2025-08-07 14:12:18,251:INFO:Set up data.
+2025-08-07 14:12:18,269:INFO:Set up index.
+2025-08-07 14:12:42,533:INFO:Initializing predict_model()
+2025-08-07 14:12:42,533:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x000001EE2E15AF90>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['Indent', 'hts_length'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=['Description', 'Unit of Quantity',
+                                             'Chapter', 'Country of Origin',
+                                             'heading_code',
+                                             'subheading_code'],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('one...
+                                                              use_cat_names=True))),
+                ('rest_encoding',
+                 TransformerWrapper(include=['Description', 'heading_code',
+                                             'subheading_code'],
+                                    transformer=TargetEncoder(cols=['Description',
+                                                                    'heading_code',
+                                                                    'subheading_code'],
+                                                              handle_missing='return_nan'))),
+                ('clean_column_names',
+                 TransformerWrapper(transformer=CleanColumnNames())),
+                ('trained_model',
+                 RandomForestClassifier(n_jobs=-1, random_state=123))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000001EE2E4B28E0>)
+2025-08-07 14:12:42,533:INFO:Checking exceptions
+2025-08-07 14:12:42,533:INFO:Preloading libraries
+2025-08-07 14:12:42,533:INFO:Set up data.
+2025-08-07 14:12:42,550:INFO:Set up index.
+2025-08-07 14:12:53,251:INFO:Initializing predict_model()
+2025-08-07 14:12:53,251:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x000001EE2E16CF10>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['Indent', 'hts_length'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=['Description', 'Unit of Quantity',
+                                             'Chapter', 'Country of Origin',
+                                             'heading_code',
+                                             'subheading_code'],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('one...
+                                                              use_cat_names=True))),
+                ('rest_encoding',
+                 TransformerWrapper(include=['Description', 'heading_code',
+                                             'subheading_code'],
+                                    transformer=TargetEncoder(cols=['Description',
+                                                                    'heading_code',
+                                                                    'subheading_code'],
+                                                              handle_missing='return_nan'))),
+                ('clean_column_names',
+                 TransformerWrapper(transformer=CleanColumnNames())),
+                ('trained_model',
+                 RandomForestClassifier(n_jobs=-1, random_state=123))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000001EE759FD800>)
+2025-08-07 14:12:53,251:INFO:Checking exceptions
+2025-08-07 14:12:53,251:INFO:Preloading libraries
+2025-08-07 14:12:53,251:INFO:Set up data.
+2025-08-07 14:12:53,266:INFO:Set up index.
+2025-08-07 14:15:15,377:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-08-07 14:15:15,377:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-08-07 14:15:15,377:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-08-07 14:15:15,377:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-08-07 14:15:16,542:INFO:Initializing load_model()
+2025-08-07 14:15:16,542:INFO:load_model(model_name=models/hts_special_rate_model, platform=None, authentication=None, verbose=True)
+2025-08-07 14:15:16,846:WARNING:C:\Users\karth\anaconda3\envs\newpycaret\Lib\site-packages\dask\dataframe\utils.py:367: FutureWarning: pandas.Int64Index is deprecated and will be removed from pandas in a future version. Use pandas.Index with the appropriate dtype instead.
+  _numeric_index_types = (pd.Int64Index, pd.Float64Index, pd.UInt64Index)
+
+2025-08-07 14:15:16,846:WARNING:C:\Users\karth\anaconda3\envs\newpycaret\Lib\site-packages\dask\dataframe\utils.py:367: FutureWarning: pandas.Float64Index is deprecated and will be removed from pandas in a future version. Use pandas.Index with the appropriate dtype instead.
+  _numeric_index_types = (pd.Int64Index, pd.Float64Index, pd.UInt64Index)
+
+2025-08-07 14:15:16,846:WARNING:C:\Users\karth\anaconda3\envs\newpycaret\Lib\site-packages\dask\dataframe\utils.py:367: FutureWarning: pandas.UInt64Index is deprecated and will be removed from pandas in a future version. Use pandas.Index with the appropriate dtype instead.
+  _numeric_index_types = (pd.Int64Index, pd.Float64Index, pd.UInt64Index)
+
+2025-08-07 14:15:37,507:INFO:Initializing predict_model()
+2025-08-07 14:15:37,507:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x00000135C9CDB490>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['Indent', 'hts_length'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=['Description', 'Unit of Quantity',
+                                             'Chapter', 'Country of Origin',
+                                             'heading_code',
+                                             'subheading_code'],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('one...
+                                                              use_cat_names=True))),
+                ('rest_encoding',
+                 TransformerWrapper(include=['Description', 'heading_code',
+                                             'subheading_code'],
+                                    transformer=TargetEncoder(cols=['Description',
+                                                                    'heading_code',
+                                                                    'subheading_code'],
+                                                              handle_missing='return_nan'))),
+                ('clean_column_names',
+                 TransformerWrapper(transformer=CleanColumnNames())),
+                ('trained_model',
+                 RandomForestClassifier(n_jobs=-1, random_state=123))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x00000135ACEA1580>)
+2025-08-07 14:15:37,507:INFO:Checking exceptions
+2025-08-07 14:15:37,507:INFO:Preloading libraries
+2025-08-07 14:15:37,507:INFO:Set up data.
+2025-08-07 14:15:37,522:INFO:Set up index.
+2025-08-07 14:29:35,518:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-08-07 14:29:35,518:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-08-07 14:29:35,518:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-08-07 14:29:35,518:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-08-07 14:29:36,304:INFO:Initializing load_model()
+2025-08-07 14:29:36,304:INFO:load_model(model_name=models/hts_special_rate_model, platform=None, authentication=None, verbose=True)
+2025-08-07 14:29:36,544:WARNING:C:\Users\karth\anaconda3\envs\newpycaret\Lib\site-packages\dask\dataframe\utils.py:367: FutureWarning: pandas.Int64Index is deprecated and will be removed from pandas in a future version. Use pandas.Index with the appropriate dtype instead.
+  _numeric_index_types = (pd.Int64Index, pd.Float64Index, pd.UInt64Index)
+
+2025-08-07 14:29:36,544:WARNING:C:\Users\karth\anaconda3\envs\newpycaret\Lib\site-packages\dask\dataframe\utils.py:367: FutureWarning: pandas.Float64Index is deprecated and will be removed from pandas in a future version. Use pandas.Index with the appropriate dtype instead.
+  _numeric_index_types = (pd.Int64Index, pd.Float64Index, pd.UInt64Index)
+
+2025-08-07 14:29:36,544:WARNING:C:\Users\karth\anaconda3\envs\newpycaret\Lib\site-packages\dask\dataframe\utils.py:367: FutureWarning: pandas.UInt64Index is deprecated and will be removed from pandas in a future version. Use pandas.Index with the appropriate dtype instead.
+  _numeric_index_types = (pd.Int64Index, pd.Float64Index, pd.UInt64Index)
+
+2025-08-07 14:33:04,274:INFO:Initializing predict_model()
+2025-08-07 14:33:04,274:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x0000027527458CD0>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['Indent', 'hts_length'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=['Description', 'Unit of Quantity',
+                                             'Chapter', 'Country of Origin',
+                                             'heading_code',
+                                             'subheading_code'],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('one...
+                                                              use_cat_names=True))),
+                ('rest_encoding',
+                 TransformerWrapper(include=['Description', 'heading_code',
+                                             'subheading_code'],
+                                    transformer=TargetEncoder(cols=['Description',
+                                                                    'heading_code',
+                                                                    'subheading_code'],
+                                                              handle_missing='return_nan'))),
+                ('clean_column_names',
+                 TransformerWrapper(transformer=CleanColumnNames())),
+                ('trained_model',
+                 RandomForestClassifier(n_jobs=-1, random_state=123))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000002756E91D800>)
+2025-08-07 14:33:04,274:INFO:Checking exceptions
+2025-08-07 14:33:04,275:INFO:Preloading libraries
+2025-08-07 14:33:04,275:INFO:Set up data.
+2025-08-07 14:33:04,282:INFO:Set up index.
+2025-08-07 14:39:16,188:INFO:Initializing predict_model()
+2025-08-07 14:39:16,188:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x0000027527442E50>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['Indent', 'hts_length'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=['Description', 'Unit of Quantity',
+                                             'Chapter', 'Country of Origin',
+                                             'heading_code',
+                                             'subheading_code'],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('one...
+                                                              use_cat_names=True))),
+                ('rest_encoding',
+                 TransformerWrapper(include=['Description', 'heading_code',
+                                             'subheading_code'],
+                                    transformer=TargetEncoder(cols=['Description',
+                                                                    'heading_code',
+                                                                    'subheading_code'],
+                                                              handle_missing='return_nan'))),
+                ('clean_column_names',
+                 TransformerWrapper(transformer=CleanColumnNames())),
+                ('trained_model',
+                 RandomForestClassifier(n_jobs=-1, random_state=123))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x00000275273D72E0>)
+2025-08-07 14:39:16,188:INFO:Checking exceptions
+2025-08-07 14:39:16,188:INFO:Preloading libraries
+2025-08-07 14:39:16,188:INFO:Set up data.
+2025-08-07 14:39:16,188:INFO:Set up index.
