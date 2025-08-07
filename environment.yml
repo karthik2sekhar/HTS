@@ -1,6 +1,5 @@
 name: newpycaret
 channels:
-  - defaults
   - conda-forge
 dependencies:
   - python=3.11
@@ -12,4 +11,3 @@ dependencies:
       - pandas
       - streamlit
       - requests
-      # Add any other pip packages you use directly
