@@ -411,3 +411,87 @@
 2025-08-07 14:39:16,188:INFO:Preloading libraries
 2025-08-07 14:39:16,188:INFO:Set up data.
 2025-08-07 14:39:16,188:INFO:Set up index.
+2025-08-07 14:52:16,923:INFO:Initializing predict_model()
+2025-08-07 14:52:16,923:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x0000027522ED3550>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['Indent', 'hts_length'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=['Description', 'Unit of Quantity',
+                                             'Chapter', 'Country of Origin',
+                                             'heading_code',
+                                             'subheading_code'],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('one...
+                                                              use_cat_names=True))),
+                ('rest_encoding',
+                 TransformerWrapper(include=['Description', 'heading_code',
+                                             'subheading_code'],
+                                    transformer=TargetEncoder(cols=['Description',
+                                                                    'heading_code',
+                                                                    'subheading_code'],
+                                                              handle_missing='return_nan'))),
+                ('clean_column_names',
+                 TransformerWrapper(transformer=CleanColumnNames())),
+                ('trained_model',
+                 RandomForestClassifier(n_jobs=-1, random_state=123))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x0000027509117060>)
+2025-08-07 14:52:16,923:INFO:Checking exceptions
+2025-08-07 14:52:16,923:INFO:Preloading libraries
+2025-08-07 14:52:16,923:INFO:Set up data.
+2025-08-07 14:52:16,939:INFO:Set up index.
+2025-08-07 14:52:18,823:INFO:Initializing predict_model()
+2025-08-07 14:52:18,823:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x000002752413CD90>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['Indent', 'hts_length'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=['Description', 'Unit of Quantity',
+                                             'Chapter', 'Country of Origin',
+                                             'heading_code',
+                                             'subheading_code'],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('one...
+                                                              use_cat_names=True))),
+                ('rest_encoding',
+                 TransformerWrapper(include=['Description', 'heading_code',
+                                             'subheading_code'],
+                                    transformer=TargetEncoder(cols=['Description',
+                                                                    'heading_code',
+                                                                    'subheading_code'],
+                                                              handle_missing='return_nan'))),
+                ('clean_column_names',
+                 TransformerWrapper(transformer=CleanColumnNames())),
+                ('trained_model',
+                 RandomForestClassifier(n_jobs=-1, random_state=123))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x00000275273D72E0>)
+2025-08-07 14:52:18,823:INFO:Checking exceptions
+2025-08-07 14:52:18,823:INFO:Preloading libraries
+2025-08-07 14:52:18,838:INFO:Set up data.
+2025-08-07 14:52:18,843:INFO:Set up index.
+2025-08-07 14:52:20,074:INFO:Initializing predict_model()
+2025-08-07 14:52:20,075:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x000002756F0B9990>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['Indent', 'hts_length'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=['Description', 'Unit of Quantity',
+                                             'Chapter', 'Country of Origin',
+                                             'heading_code',
+                                             'subheading_code'],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('one...
+                                                              use_cat_names=True))),
+                ('rest_encoding',
+                 TransformerWrapper(include=['Description', 'heading_code',
+                                             'subheading_code'],
+                                    transformer=TargetEncoder(cols=['Description',
+                                                                    'heading_code',
+                                                                    'subheading_code'],
+                                                              handle_missing='return_nan'))),
+                ('clean_column_names',
+                 TransformerWrapper(transformer=CleanColumnNames())),
+                ('trained_model',
+                 RandomForestClassifier(n_jobs=-1, random_state=123))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x0000027509117060>)
+2025-08-07 14:52:20,075:INFO:Checking exceptions
+2025-08-07 14:52:20,075:INFO:Preloading libraries
+2025-08-07 14:52:20,076:INFO:Set up data.
+2025-08-07 14:52:20,089:INFO:Set up index.
