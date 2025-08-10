@@ -25,7 +25,7 @@ if st.button("Predict"):
         "hts_length": hts_length
     }
     headers = {"x-api-key": "htfb-lijm-sdfer-aov"}
-    response = requests.post("http://127.0.0.1:8000/predict/", json=payload, headers=headers)
+    response = requests.post("http://54.185.243.98:8000/predict/", json=payload, headers=headers)
     if response.status_code == 200:
         st.success(f"Prediction: {response.json()['prediction']}")
     else:
